@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Antlr4",
+      "reason": null,
+      "repositoryURL": "/Users/ryanbillard/Dev/graphqlswiftgen/CommandLineTool/Antlr4",
+      "version": "4.0.0"
+    }
+  ],
+  "version": 1
+}
