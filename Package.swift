@@ -3,5 +3,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "GraphQLParser"
+    name: "GraphQLParser",
+    dependencies: [
+      .Package(
+        url: "../Antlr4", majorVersion: 4
+      ),
+    ]
+
 )
