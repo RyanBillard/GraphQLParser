@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
       .package(
-        url: "../Antlr4", from: "4.0.0"
+        url: "https://github.com/RyanBillard/Antlr4", from: "4.0.0"
       )
     ],
     targets: [
