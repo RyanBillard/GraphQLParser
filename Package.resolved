@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Antlr4",
+        "repositoryURL": "/Users/ryanbillard/Dev/graphqlswiftgen/CommandLineTool/Antlr4",
+        "state": {
+          "branch": null,
+          "revision": "620abd25a175d6ff4a9eac499bc8a54c777a6393",
+          "version": "4.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
